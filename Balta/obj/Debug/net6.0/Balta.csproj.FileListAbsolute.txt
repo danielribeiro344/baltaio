@@ -1,0 +1,15 @@
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.csproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfoInputs.cache
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfo.cs
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\Balta.exe
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\Balta.deps.json
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\Balta.runtimeconfig.json
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\Balta.dll
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\ref\Balta.dll
+C:\Users\DANIEL\source\repos\Balta\Balta\bin\Debug\net6.0\Balta.pdb
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.dll
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\ref\Balta.dll
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.pdb
+C:\Users\DANIEL\source\repos\Balta\Balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache
